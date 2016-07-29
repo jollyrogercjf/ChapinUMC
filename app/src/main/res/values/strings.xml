@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Welcome to Chapin UMC</string>
+    <string name="welcomeMessage">Welcome to Chapin United Methodist Church!  We are so excited to share with you all that our church has to offer.
+        \n\nPlease feel free to explore this app to find out about our church and what you can do to plug into this amazing community of Christ.
+        \n\nAlso if you have questions or want even more info please feel free to contact us.</string>
+
+    <string name="childrensMeassage">We believe Sunday morning should be the greatest time of each child’s week! Our schedule and curriculum are prayerfully planned and coordinated to
+        actively engage kids and nurture them as they discover God, His world, and His plan.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcomeCenter">Who Can Help Me Find My Way Around?\n\n
+    Our First Connection volunteers are available at most of the church entrances. They will answer any questions you may have and help you find the Childrens Ministry area, Sunday School class rooms, fellowship hall, sanctuary, Fusion Center, restrooms, and other locations. \n
+        (First Connection volunteers will be wearing CUMC blue vests or t-shirts.)
+        \n
+        \n
+
+Where Do I Park?\n
+Parking is available in two lots on either side of the front of the church as well as in a lot behind the church.
+        \nParking attendants wearing yellow vests will be directing traffic and will be available to assist you with parking in the most convenient space available.</string>
+
+
+
+    <string name="childrenTimes">Children’s Sundays at the Wave\n
+\n9:00 AM Worship
+\n    Nursery (6 weeks-2years)
+\n     Wee Worship (2 years– 4 years)
+\n     Kids Worship (K-4th grade)\n
+
+\n10:10 AM
+\nSunday School Small Group
+\n     Nursery (6 weeks-2 years)
+\n     Classes for 2 years– 4th grade\n
+
+\n11:15 AM Worship
+\n     Nursery (6 weeks-2years)
+\n     Wee Worship (2 years– 4 years)
+\n     Kids Worship (K-4th grade)"</string>
+
+    <string name="worshipTimes">Service Times\n
+        9am Traditional Service (Sanctuary)\n
+        9am Contemporary Service (Fusion Center)\n
+        11:15am Contemporary Service (Sanctuary and Fusion Center).  \n
+        When Should I Arrive? \n
+        Typically, you should arrive about 15 minutes before the worship service starts to allow plenty of time to make your way to the sanctuary or Fusion Center, get a bulletin and find a seat.\n
+        Greeters in the sanctuary and Fusion Center will welcome you and provide you with a bulletin and will be available to help you and your family find a seat.\n
+        What Should I Wear?\n
+        Our congregation spans a range of ages and backgrounds. You\'ll see people in both types of services dressed in all styles—from jeans to business suits.</string>
+
+    <string name="newMembers">MAKE THE CONNECTION\n\n
+Join us to Make the Connection every FIRST Sunday of the month in the library (Rm 222). \n\n
+When you attend Make the Connection you will find out about the history, vision and values of CUMC. \n\n
+You will also learn how you can become a member and partner with us in proclaiming the Gospel. \n\n
+\n
+
+</string>
+</resources>

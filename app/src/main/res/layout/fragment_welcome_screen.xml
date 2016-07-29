@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/steelBlue">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/chapinumclogo"
+        android:layout_margin="16dp"
+        android:layout_alignParentTop="true"
+        android:id="@+id/logo"
+        android:layout_alignRight="@+id/churchPhoto"
+        android:layout_alignEnd="@+id/churchPhoto" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/chapinumcoutsideview"
+        android:layout_below="@id/logo"
+        android:layout_alignParentRight="true"
+        android:id="@+id/churchPhoto"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textSize="16dp"
+        android:text="@string/welcomeMessage"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/greenBlue"
+        android:id="@+id/welcomeMessage"
+        android:layout_below="@id/logo"
+        android:layout_toLeftOf="@id/churchPhoto"
+        android:textStyle="normal" />
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="@drawable/gpschapinumc"
+        android:onClick="goToMaps"
+        android:id="@+id/gpsmap"
+        android:layout_below="@+id/churchPhoto"
+        android:layout_toRightOf="@+id/welcomeMessage"
+        android:layout_toEndOf="@+id/welcomeMessage" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click here for directions"
+        android:layout_below="@+id/gpsmap"
+        android:layout_toRightOf="@+id/welcomeMessage"
+        android:layout_toEndOf="@+id/welcomeMessage"
+        android:textColor="@color/greenBlue"
+        android:layout_margin="8dp"
+        android:textSize="16dp"
+        android:gravity="center_horizontal"
+        android:textStyle="normal" />
+
+</RelativeLayout>
